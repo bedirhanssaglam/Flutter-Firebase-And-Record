@@ -4,6 +4,8 @@
 
 A simple [Firebase](https://firebase.flutter.dev/docs/overview/) Service project that uses the [Records](https://dart.dev/language/records) feature offered by the [Dart](https://dart.dev/) programming language.
 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bedirhanssaglam/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bedirhanssaglam/0" alt="Recent Article 0">  
+
 #### Firebase Service
 
 ```dart
